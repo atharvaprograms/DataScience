@@ -4,13 +4,13 @@ Hi, I'm Atharva Mangrulkar, a Data Scientist with 7 years of experience in Data 
 
 This repository contains my experiments and projects across:
 
-- Machine Learning
-- Deep Learning
+- Supervised Learning
+- Unsupervised Learning
+- Time Series
+- Deep Learning (ANN)
 - NLP
 - Generative AI
 - Recommendation Systems
-- Time Series
-- Unsupervised Learning
 - MLOps
 
 ### Tools & Technologies
