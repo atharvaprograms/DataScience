@@ -1,8 +1,8 @@
 # Data Science Portfolio
 
-Hi, I'm Atharva Mangrulkar, a Data Scientist with 5+ years of experience in Data Science, Analytics, Machine Learning, and Risk Analytics.
+Hi, I'm Atharva Mangrulkar, a Data Scientist with 7 years of experience in Data Science, Analytics, Machine Learning, Product and Risk Analytics.
 
-This repository contains my work and projects across:
+This repository contains my experiments and projects across:
 
 - Machine Learning
 - Deep Learning
